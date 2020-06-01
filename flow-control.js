@@ -16,9 +16,9 @@ funtion ageChecker(age){
       return "You are a teenager!";
   }
   if else (age < = 12){
-      return "You are a kid"; 
+      return "You are a kid";
   }
   else (age >= 20){
     return "You are a grownup";
-  }  
+  }
 }
