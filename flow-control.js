@@ -24,3 +24,6 @@ function ageChecker(age) {
   }
 }
 //passing
+function ternaryTeenager{
+  age >= 13 && age <= 19 ? "You are a teenager": "You are not a teenager"
+}
